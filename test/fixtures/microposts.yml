@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  contex: MyText
+  user_id: 1
+
+two:
+  contex: MyText
+  user_id: 1
